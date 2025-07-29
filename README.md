@@ -136,3 +136,10 @@ MIT License - see LICENSE file for details
 ## Screenshots of our app runned in local host
 
 ![WhatsApp Image 2025-07-27 at 02 22 19_e8a72304](https://github.com/user-attachments/assets/9ae6d756-90ed-4079-8269-707fa1c0f3f0)
+![WhatsApp Image 2025-07-27 at 02 22 35_7595f453](https://github.com/user-attachments/assets/9d495323-8c1e-4473-aeb4-4c588601765e)
+![WhatsApp Image 2025-07-27 at 02 22 52_7d01e170](https://github.com/user-attachments/assets/14279b0d-cd98-45ac-bf25-0d6124722e22)
+![WhatsApp Image 2025-07-27 at 02 23 12_35e84c0e](https://github.com/user-attachments/assets/cda6368f-b082-4478-8a82-e8a3ba62dcb7)
+![WhatsApp Image 2025-07-27 at 02 23 29_a2a01939](https://github.com/user-attachments/assets/a65c7148-3c46-42af-b032-17ff0ffd7478)
+![WhatsApp Image 2025-07-27 at 02 23 50_70aa234c](https://github.com/user-attachments/assets/1b97ddc5-0bf5-4f06-9700-0a221088dc53)
+![WhatsApp Image 2025-07-27 at 02 24 11_3fd52189](https://github.com/user-attachments/assets/34c8c1d4-780a-404f-91d1-0348e44c4b83)
+![WhatsApp Image 2025-07-27 at 02 24 28_49c384ec](https://github.com/user-attachments/assets/dedbe5d3-43b0-46fc-b005-f1719dc6fea2)
