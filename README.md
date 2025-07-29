@@ -11,10 +11,6 @@ A comprehensive eldercare companion app with voice assistance, medicine reminder
 - **Voice Assistant**: Natural language interaction
 - **Multi-language Support**: English and regional languages
 
-## 🚀 Live Demo
-
-- **Frontend**: https://saivarshini07-12.github.io/SwarSaathi
-- **Backend API**: [Deploy to your preferred platform]
 
 ## 🛠️ Technology Stack
 
@@ -116,17 +112,7 @@ npm run deploy
 4. Push to branch
 5. Create Pull Request
 
-## 📄 License
-
-MIT License - see LICENSE file for details
-
-## 👥 Authors
-
-- Development Team
-- UI/UX Design
-- Voice Integration
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Murf API for voice synthesis
 - React community
