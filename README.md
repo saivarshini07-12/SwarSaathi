@@ -131,3 +131,8 @@ MIT License - see LICENSE file for details
 - Murf API for voice synthesis
 - React community
 - Open source contributors
+
+
+## Screenshots of our app runned in local host
+
+![WhatsApp Image 2025-07-27 at 02 22 19_e8a72304](https://github.com/user-attachments/assets/9ae6d756-90ed-4079-8269-707fa1c0f3f0)
