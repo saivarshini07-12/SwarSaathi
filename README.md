@@ -1,4 +1,4 @@
-# SwarSaathi - Eldercare Voice Assistant
+# SwarSaathi - A Caring Voice for Every Step
 
 A comprehensive eldercare companion app with voice assistance, medicine reminders, memory aids, and emergency contacts.
 
